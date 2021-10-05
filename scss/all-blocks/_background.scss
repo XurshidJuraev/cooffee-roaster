@@ -1,0 +1,30 @@
+.background{
+    background-image: url("./../img/bground.jpg");
+    background-repeat: no-repeat;
+    height: 600px;
+    border-radius: 10px;
+    background-size: contain;
+}
+.heading-one{
+    padding-top: 117px;
+    margin-left: 85px;
+    font-size: 72px;
+    width: 425px;
+    color: #ffffff;
+}
+.bgc-text{
+    margin-left: 85px;
+    color: #ffffff;
+    opacity: 0.50;
+    width: 445px;
+}
+.button-all{
+    width: 217px;
+    height: 56px;
+    color: #ffffff;
+    margin-top: 50px;
+    border: none;
+    background-color: #0e8784;
+    margin-left: 85px;
+    border-radius: 8px;
+}
